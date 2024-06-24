@@ -1,0 +1,15 @@
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/bin/Debug/net7.0/GradeCalculator
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/bin/Debug/net7.0/GradeCalculator.deps.json
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/bin/Debug/net7.0/GradeCalculator.runtimeconfig.json
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/bin/Debug/net7.0/GradeCalculator.dll
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/bin/Debug/net7.0/GradeCalculator.pdb
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/obj/Debug/net7.0/GradeCalculator.csproj.AssemblyReference.cache
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/obj/Debug/net7.0/GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/obj/Debug/net7.0/GradeCalculator.AssemblyInfoInputs.cache
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/obj/Debug/net7.0/GradeCalculator.AssemblyInfo.cs
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/obj/Debug/net7.0/GradeCalculator.csproj.CoreCompileInputs.cache
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/obj/Debug/net7.0/GradeCalculator.dll
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/obj/Debug/net7.0/refint/GradeCalculator.dll
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/obj/Debug/net7.0/GradeCalculator.pdb
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/obj/Debug/net7.0/GradeCalculator.genruntimeconfig.cache
+/Users/mac/dcit318-assignment1-10952524/GradeCalculator/GradeCalculator/obj/Debug/net7.0/ref/GradeCalculator.dll
